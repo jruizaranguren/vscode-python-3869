@@ -93,7 +93,6 @@ dependencies:
     - alchemize==0.13.2
     - aumbry==0.8.0
     - colorama==0.4.1
-    - daslog==0.9.1
     - gprof2dot==2017.9.19
     - jsonschema==3.0.0a3
     - mmh3==2.5.1
